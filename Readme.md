@@ -1,9 +1,9 @@
-##Endpoints
+## Endpoints
 
-###Main Menu
+### Main Menu
 
 
-###Home Page
+### Home Page
 http://127.0.0.1:8000/homepage/
 
 ```
@@ -17,7 +17,7 @@ Response
     }
 ]
 ```
-###Footer
+### Footer
 http://127.0.0.1:8000/footer/
 ```
 Response
@@ -31,19 +31,19 @@ Response
     }
 ]
 ```
-###Categories
+### Categories
 
-###Products
+### Products
 
-###Users
+### Users
 
-###User
+### User
 
-###Address
+### Address
 
-###Cart
+### Cart
 
-###Order
+### Order
 
-###Favorite
+### Favorite
 
